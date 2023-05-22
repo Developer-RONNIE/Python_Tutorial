@@ -14,6 +14,7 @@ print("Hello,",name)
 # '-' is the substraction operator 
 # '*' is multiplication operator
 # '/' is division operator
+# '=' is the declaration operator
 print(64/10)
 
 # using Operators with Data Types
