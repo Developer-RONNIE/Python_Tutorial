@@ -3,6 +3,8 @@
 # Always returns either 'TRUE' / 'FALSE'
 # '<' is the less than operator 
 # '>' is the greater than operator
+# '<=' is the less than equal to operator
+# '>=' is the greater than equal to operator 
 # '==' is equal to operator
 # '=' is the declaration operator (not a comparison operator)
 # '!=' is not equal to operator 
