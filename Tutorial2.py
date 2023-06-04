@@ -1,7 +1,9 @@
-# Taking Input from the user : 
-
+# Explaination of print function:
+# SYNTAX of a print function: 
 #print(argument)
 print('Hello, What is your Name?')
+
+# Taking Input from the user : 
 name = input()
 print("Hello,",name)
 
