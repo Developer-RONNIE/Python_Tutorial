@@ -17,8 +17,8 @@ will be uploaded soon ...
 
 Please make sure to check out [TechWithTim]'s original videos on their YouTube channel:
 Python Playlist :
-1. Pyhton Programming Tutorials : https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm
-2. Python Classes & Objects : 
+* Pyhton Programming Tutorials : https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm
+
 
 
 
