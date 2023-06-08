@@ -22,9 +22,46 @@ print(type(a)) #output: a is an object of float class
 
 
 # therefore, we cannot add x and y implicitly
-m = x + y # output: Error
-print(y.count('1')) # output: Error
+# vm = x + y # output: Error
+# print(y.count('1')) # output: Error
 print(x.count('1')) # will run this code
 
 
-#REMINDER : Functions & Methods are different things  
+#REMINDER : Functions & Methods are different things
+
+#### Introduction to Classes ####
+m = 'string'
+n = 46
+
+
+#Example 1:
+class number():
+    def __init__(self):
+    #these are the methods inside of a class which looks similar to a function
+        self.var = 46
+
+    def display(self, m):
+        print(m)
+
+
+#* call our method 
+n = number()        
+n.display(21)
+        
+
+
+
+# Example 2 : with more than 1 parameter
+class numbers():
+    def __init__(self, num):
+        self.var = num
+
+
+    def display(self,m):
+        print(m)
+
+num = numbers(23)
+print(num)
+num.display(num.var)
+
+
